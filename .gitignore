@@ -1,0 +1,10 @@
+# Données cliniques confidentielles : jamais publiées
+Data_Crohn.xlsx
+*.xlsx
+Etape1_Nettoyage/crohn_clean.csv
+Etape2_Clustering/crohn_clustered.csv
+__pycache__/
+*.pyc
+*.log
+.venv/
+.idea/

@@ -1,0 +1,202 @@
+antecedent,consequent,support,confidence,lift
+"Antibiotics_No, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.3805031446540881,1.0,1.6307692307692307
+"Antibiotics_No, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3805031446540881,1.0,1.6307692307692307
+"Sex_Male, WBC_Normal","Diagnosis_Crohn's disease, Hb_Normal",0.2908805031446541,0.7551020408163265,1.6224489795918366
+"FlareStatus_Remission, Sex_Male","Diagnosis_Crohn's disease, HBI_Remission",0.33176100628930816,0.9768518518518519,1.5930199430199432
+"FlareStatus_Remission, Stool_Yes","HBI_Remission, WBC_Normal",0.3443396226415094,0.7849462365591398,1.5898911033490857
+"Diagnosis_Crohn's disease, Sex_Male, WBC_Normal",Hb_Normal,0.2908805031446541,0.7740585774058577,1.5829622354666415
+"CRP_Eleve, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.3522012578616352,0.9696969696969697,1.5813519813519814
+"FlareStatus_Remission, Hb_Normal","Diagnosis_Crohn's disease, HBI_Remission",0.30345911949685533,0.9601990049751243,1.5658629927286645
+"Sex_Male, WBC_Normal",Hb_Normal,0.2940251572327044,0.7632653061224489,1.5608898221668086
+"CRP_Eleve, FlareStatus_Remission","HBI_Remission, WBC_Normal",0.279874213836478,0.7705627705627706,1.5607577136239557
+"Cannabis_No, Sex_Male, WBC_Normal",Hb_Normal,0.279874213836478,0.7606837606837608,1.5556105202407455
+"Antibiotics_No, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.3742138364779874,0.9834710743801651,1.5520784201136104
+"HBI_Remission, Sex_Male","Diagnosis_Crohn's disease, FlareStatus_Remission",0.33176100628930816,0.9504504504504505,1.54996534996535
+"Diagnosis_Crohn's disease, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.6022012578616353,0.9820512820512821,1.5498377552968123
+"Cannabis_No, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.6022012578616353,0.9503722084367245,1.5498377552968123
+"Diagnosis_Crohn's disease, HBI_Remission, Hb_Normal",FlareStatus_Remission,0.30345911949685533,1.0,1.5474452554744524
+"Antibiotics_No, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.279874213836478,1.0,1.5474452554744524
+"Antibiotics_No, HBI_Remission, Surgery_No",FlareStatus_Remission,0.25471698113207547,1.0,1.5474452554744524
+"Antibiotics_No, Cannabis_No, HBI_Remission",FlareStatus_Remission,0.3742138364779874,1.0,1.5474452554744524
+"BMI_Normal, Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.3553459119496855,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.44654088050314467,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Surgery_No",FlareStatus_Remission,0.40723270440251574,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Sex_Male",FlareStatus_Remission,0.33176100628930816,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Hb_Limite",FlareStatus_Remission,0.28459119496855345,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, Duration_Moyenne, HBI_Remission",FlareStatus_Remission,0.3522012578616352,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Sex_Female",FlareStatus_Remission,0.28144654088050314,1.0,1.5474452554744524
+FlareStatus_Remission,"Cannabis_No, Diagnosis_Crohn's disease, HBI_Remission",0.6022012578616353,0.9318734793187348,1.5474452554744524
+"CRP_Eleve, Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.3522012578616352,1.0,1.5474452554744524
+"Cannabis_No, Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.6022012578616353,1.0,1.5474452554744524
+"Antibiotics_No, Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.3805031446540881,1.0,1.5474452554744524
+"Age_Adulte, Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.3238993710691824,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission",FlareStatus_Remission,0.6132075471698113,1.0,1.5474452554744524
+"Antibiotics_No, HBI_Remission",FlareStatus_Remission,0.3805031446540881,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Stool_Yes",FlareStatus_Remission,0.4056603773584906,1.0,1.5474452554744524
+"Diagnosis_Crohn's disease, HBI_Remission, Smoking_No smoking",FlareStatus_Remission,0.3553459119496855,1.0,1.5474452554744524
+FlareStatus_Remission,"Diagnosis_Crohn's disease, HBI_Remission",0.6132075471698113,0.948905109489051,1.5474452554744524
+"FlareStatus_Remission, WBC_Normal","Diagnosis_Crohn's disease, HBI_Remission",0.44654088050314467,0.9466666666666667,1.5437948717948717
+"FlareStatus_Remission, Smoking_No smoking","Diagnosis_Crohn's disease, HBI_Remission",0.3553459119496855,0.9456066945606694,1.5420663018989378
+"Duration_Moyenne, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.3522012578616352,0.9451476793248945,1.541317753975982
+"Age_Adulte, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.3238993710691824,0.944954128440367,1.5410021171489061
+"FlareStatus_Remission, Hb_Limite","Diagnosis_Crohn's disease, HBI_Remission",0.28459119496855345,0.9427083333333334,1.5373397435897438
+"Diagnosis_Crohn's disease, Hb_Normal","Cannabis_No, Sex_Male",0.35377358490566035,0.7601351351351351,1.529892234006158
+"FlareStatus_Remission, Surgery_No","Diagnosis_Crohn's disease, HBI_Remission",0.40723270440251574,0.9350180505415162,1.5247986670369342
+"Age_Adulte, FlareStatus_Remission","HBI_Remission, WBC_Normal",0.2578616352201258,0.7522935779816514,1.5237538713258927
+"BMI_Normal, FlareStatus_Remission","Diagnosis_Crohn's disease, HBI_Remission",0.3553459119496855,0.933884297520661,1.5229497774952319
+"Diagnosis_Crohn's disease, Hb_Normal",Sex_Male,0.3694968553459119,0.7939189189189189,1.5208808205796156
+"FlareStatus_Remission, Sex_Female","Cannabis_No, HBI_Remission",0.30660377358490565,1.0,1.5142857142857145
+"HBI_Remission, Hb_Normal","Diagnosis_Crohn's disease, FlareStatus_Remission",0.30345911949685533,0.9278846153846154,1.5131656804733729
+"Cannabis_No, HBI_Remission, Sex_Male",FlareStatus_Remission,0.3270440251572327,0.9765258215962441,1.5111202494773996
+"Diagnosis_Crohn's disease, Hb_Normal, WBC_Normal",Sex_Male,0.2908805031446541,0.7872340425531915,1.508074852601897
+"FlareStatus_Remission, Stool_Yes","Diagnosis_Crohn's disease, HBI_Remission",0.4056603773584906,0.924731182795699,1.508023159636063
+"Cannabis_No, Diagnosis_Crohn's disease, Hb_Normal",Sex_Male,0.35377358490566035,0.7867132867132867,1.507077260089308
+"FlareStatus_Remission, Hb_Limite","Cannabis_No, HBI_Remission",0.300314465408805,0.9947916666666666,1.5063988095238094
+"HBI_Remission, Sex_Male",FlareStatus_Remission,0.33962264150943394,0.972972972972973,1.5056224107318998
+"FlareStatus_Remission, Smoking_No smoking","Cannabis_No, HBI_Remission",0.37264150943396224,0.9916317991631798,1.5016138673042438
+"Cannabis_No, HBI_Remission, Hb_Normal",FlareStatus_Remission,0.3050314465408805,0.97,1.5010218978102188
+Hb_Normal,"Diagnosis_Crohn's disease, Sex_Male",0.3694968553459119,0.7556270096463021,1.4971301499534209
+"FlareStatus_Remission, Sex_Female","Diagnosis_Crohn's disease, HBI_Remission",0.28144654088050314,0.917948717948718,1.4969625246548326
+"Hb_Normal, WBC_Normal","Diagnosis_Crohn's disease, Sex_Male",0.2908805031446541,0.7551020408163265,1.4960900247949644
+"HBI_Remission, Hb_Normal",FlareStatus_Remission,0.3160377358490566,0.9663461538461539,1.4953677709152162
+"Age_Adulte, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.2578616352201258,0.9647058823529412,1.4928295405753542
+"FlareStatus_Remission, Surgery_No","Cannabis_No, HBI_Remission",0.42924528301886794,0.9855595667870036,1.492418772563177
+"Cannabis_No, Hb_Normal","Diagnosis_Crohn's disease, Sex_Male",0.35377358490566035,0.7525083612040133,1.4909511455630917
+"Antibiotics_No, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.3742138364779874,0.9834710743801651,1.4892561983471073
+"CRP_Eleve, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.35691823899371067,0.9826839826839827,1.4880643166357452
+"FlareStatus_Remission, Stool_Yes","Cannabis_No, HBI_Remission",0.4308176100628931,0.982078853046595,1.4871479774705583
+"Cannabis_No, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.6022012578616353,0.911904761904762,1.4871062271062274
+"Diagnosis_Crohn's disease, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.6022012578616353,0.9820512820512821,1.4871062271062272
+"Cannabis_No, HBI_Remission",FlareStatus_Remission,0.6336477987421384,0.9595238095238097,1.4848105665623916
+FlareStatus_Remission,"Cannabis_No, HBI_Remission",0.6336477987421384,0.9805352798053528,1.4848105665623914
+"Age_Adulte, Cannabis_No, HBI_Remission",FlareStatus_Remission,0.33490566037735847,0.9594594594594594,1.4847109883606233
+"Cannabis_No, Duration_Moyenne, HBI_Remission",FlareStatus_Remission,0.3632075471698113,0.9585062240663899,1.4832359087742675
+"BMI_Normal, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.37264150943396224,0.9793388429752065,1.4829988193624555
+"Cannabis_No, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.4606918238993711,0.9575163398692811,1.4817041171699823
+"BMI_Normal, HBI_Remission",FlareStatus_Remission,0.3805031446540881,0.9565217391304348,1.4801650269755633
+"Age_Adulte, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.33490566037735847,0.9770642201834863,1.479554390563565
+"HBI_Remission, Sex_Female","Cannabis_No, FlareStatus_Remission",0.30660377358490565,0.9375,1.4795285359801489
+HBI_Remission,"Cannabis_No, FlareStatus_Remission",0.6336477987421384,0.9372093023255815,1.4790697674418607
+HBI_Remission,"Diagnosis_Crohn's disease, FlareStatus_Remission",0.6132075471698113,0.9069767441860466,1.4790697674418607
+"FlareStatus_Remission, Stool_Yes, Surgery_No",HBI_Remission,0.2940251572327044,1.0,1.4790697674418605
+"FlareStatus_Remission, Surgery_No, WBC_Normal",HBI_Remission,0.32075471698113206,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Hb_Normal",HBI_Remission,0.30345911949685533,1.0,1.4790697674418605
+"Duration_Moyenne, FlareStatus_Remission, Surgery_No",HBI_Remission,0.25471698113207547,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Surgery_No",HBI_Remission,0.40723270440251574,1.0,1.4790697674418605
+"FlareStatus_Remission, Smoking_No smoking, Surgery_No",HBI_Remission,0.25471698113207547,1.0,1.4790697674418605
+"FlareStatus_Remission, Smoking_No smoking, Stool_Yes",HBI_Remission,0.25943396226415094,1.0,1.4790697674418605
+"FlareStatus_Remission, Smoking_No smoking, WBC_Normal",HBI_Remission,0.26572327044025157,1.0,1.4790697674418605
+"Duration_Moyenne, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.27044025157232704,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Smoking_No smoking",HBI_Remission,0.3553459119496855,1.0,1.4790697674418605
+"FlareStatus_Remission, Stool_Yes, WBC_Normal",HBI_Remission,0.3443396226415094,1.0,1.4790697674418605
+"FlareStatus_Remission, Sex_Male",HBI_Remission,0.33962264150943394,1.0,1.4790697674418605
+"FlareStatus_Remission, WBC_Normal",HBI_Remission,0.4716981132075472,1.0,1.4790697674418605
+"FlareStatus_Remission, Hb_Normal",HBI_Remission,0.3160377358490566,1.0,1.4790697674418605
+"FlareStatus_Remission, Smoking_No smoking",HBI_Remission,0.3757861635220126,1.0,1.4790697674418605
+"FlareStatus_Remission, Stool_Yes",HBI_Remission,0.4386792452830189,1.0,1.4790697674418605
+"FlareStatus_Remission, Surgery_No",HBI_Remission,0.43553459119496857,1.0,1.4790697674418605
+"BMI_Normal, Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.3553459119496855,1.0,1.4790697674418605
+"Antibiotics_No, Cannabis_No, FlareStatus_Remission",HBI_Remission,0.3742138364779874,1.0,1.4790697674418605
+"Age_Adulte, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.2578616352201258,1.0,1.4790697674418605
+"Age_Adulte, Cannabis_No, FlareStatus_Remission",HBI_Remission,0.33490566037735847,1.0,1.4790697674418605
+"Age_Adulte, Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.3238993710691824,1.0,1.4790697674418605
+"Antibiotics_No, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.279874213836478,1.0,1.4790697674418605
+"Antibiotics_No, Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.3805031446540881,1.0,1.4790697674418605
+"BMI_Normal, Cannabis_No, FlareStatus_Remission",HBI_Remission,0.37264150943396224,1.0,1.4790697674418605
+"Antibiotics_No, FlareStatus_Remission, Surgery_No",HBI_Remission,0.25471698113207547,1.0,1.4790697674418605
+"Duration_Moyenne, FlareStatus_Remission",HBI_Remission,0.37264150943396224,1.0,1.4790697674418605
+"CRP_Eleve, FlareStatus_Remission",HBI_Remission,0.3632075471698113,1.0,1.4790697674418605
+"FlareStatus_Remission, Sex_Female",HBI_Remission,0.30660377358490565,1.0,1.4790697674418605
+"FlareStatus_Remission, Hb_Limite",HBI_Remission,0.3018867924528302,1.0,1.4790697674418605
+"Antibiotics_No, FlareStatus_Remission",HBI_Remission,0.3805031446540881,1.0,1.4790697674418605
+"BMI_Normal, FlareStatus_Remission",HBI_Remission,0.3805031446540881,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission",HBI_Remission,0.6336477987421384,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.6132075471698113,1.0,1.4790697674418605
+HBI_Remission,FlareStatus_Remission,0.6462264150943396,0.9558139534883722,1.4790697674418605
+FlareStatus_Remission,HBI_Remission,0.6462264150943396,1.0,1.4790697674418605
+"Age_Adulte, FlareStatus_Remission",HBI_Remission,0.34276729559748426,1.0,1.4790697674418605
+"Duration_Moyenne, FlareStatus_Remission, Stool_Yes",HBI_Remission,0.25943396226415094,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.44654088050314467,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, Duration_Moyenne, FlareStatus_Remission",HBI_Remission,0.3522012578616352,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Hb_Limite",HBI_Remission,0.28459119496855345,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Sex_Male",HBI_Remission,0.33176100628930816,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Hb_Limite",HBI_Remission,0.300314465408805,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Smoking_No smoking",HBI_Remission,0.37264150943396224,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.4606918238993711,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Surgery_No",HBI_Remission,0.42924528301886794,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Sex_Male",HBI_Remission,0.3270440251572327,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Stool_Yes",HBI_Remission,0.4308176100628931,1.0,1.4790697674418605
+"CRP_Eleve, FlareStatus_Remission, Stool_Yes",HBI_Remission,0.25,1.0,1.4790697674418605
+"Cannabis_No, Duration_Moyenne, FlareStatus_Remission",HBI_Remission,0.3632075471698113,1.0,1.4790697674418605
+"BMI_Normal, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.279874213836478,1.0,1.4790697674418605
+"CRP_Eleve, Cannabis_No, FlareStatus_Remission",HBI_Remission,0.35691823899371067,1.0,1.4790697674418605
+"Cannabis_No, Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.6022012578616353,1.0,1.4790697674418605
+"CRP_Eleve, FlareStatus_Remission, WBC_Normal",HBI_Remission,0.279874213836478,1.0,1.4790697674418605
+HBI_Remission,"Cannabis_No, Diagnosis_Crohn's disease, FlareStatus_Remission",0.6022012578616353,0.8906976744186047,1.4790697674418605
+"BMI_Normal, FlareStatus_Remission, Surgery_No",HBI_Remission,0.2610062893081761,1.0,1.4790697674418605
+"CRP_Eleve, Diagnosis_Crohn's disease, FlareStatus_Remission",HBI_Remission,0.3522012578616352,1.0,1.4790697674418605
+"BMI_Normal, FlareStatus_Remission, Stool_Yes",HBI_Remission,0.26257861635220126,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Stool_Yes",HBI_Remission,0.4056603773584906,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Hb_Normal",HBI_Remission,0.3050314465408805,1.0,1.4790697674418605
+"Cannabis_No, FlareStatus_Remission, Sex_Female",HBI_Remission,0.30660377358490565,1.0,1.4790697674418605
+"Diagnosis_Crohn's disease, FlareStatus_Remission, Sex_Female",HBI_Remission,0.28144654088050314,1.0,1.4790697674418605
+"FlareStatus_Remission, WBC_Normal","Cannabis_No, HBI_Remission",0.4606918238993711,0.9766666666666667,1.478952380952381
+"Duration_Moyenne, HBI_Remission",FlareStatus_Remission,0.37264150943396224,0.9556451612903224,1.4788085707558274
+"BMI_Normal, Cannabis_No, HBI_Remission",FlareStatus_Remission,0.37264150943396224,0.9556451612903224,1.4788085707558274
+"HBI_Remission, Sex_Male","Cannabis_No, FlareStatus_Remission",0.3270440251572327,0.9369369369369369,1.4786399302528335
+"Hb_Normal, Stool_Yes",Sex_Male,0.25,0.7718446601941747,1.478593987600889
+"HBI_Remission, WBC_Normal",FlareStatus_Remission,0.4716981132075472,0.9554140127388535,1.478450881026547
+"BMI_Normal, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.37264150943396224,0.9367588932806323,1.4783589482046704
+Hb_Normal,Sex_Male,0.37735849056603776,0.7717041800643087,1.478324875062953
+"HBI_Remission, Hb_Limite","Cannabis_No, FlareStatus_Remission",0.300314465408805,0.9362745098039216,1.4775945117501095
+"Duration_Moyenne, FlareStatus_Remission","Cannabis_No, HBI_Remission",0.3632075471698113,0.9746835443037974,1.4759493670886077
+"HBI_Remission, WBC_Normal","Diagnosis_Crohn's disease, FlareStatus_Remission",0.44654088050314467,0.9044585987261147,1.4749632533072023
+"Age_Adulte, HBI_Remission",FlareStatus_Remission,0.34276729559748426,0.9519650655021834,1.4731138239887802
+"BMI_Normal, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.279874213836478,0.9518716577540107,1.4729692806120458
+"Duration_Moyenne, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3522012578616352,0.9032258064516128,1.4729528535980148
+"HBI_Remission, WBC_Normal","Cannabis_No, FlareStatus_Remission",0.4606918238993711,0.9331210191082803,1.472617786979817
+"HBI_Remission, Hb_Normal","Cannabis_No, FlareStatus_Remission",0.3050314465408805,0.9326923076923077,1.4719412101546097
+"Duration_Moyenne, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.27044025157232704,0.9502762430939227,1.4705004637657781
+"Duration_Moyenne, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.3632075471698113,0.9314516129032256,1.4699831905867282
+"Age_Adulte, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.33490566037735847,0.9301310043668123,1.4678990540379468
+"Age_Adulte, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3238993710691824,0.8995633187772926,1.4669801813906618
+"HBI_Remission, Smoking_No smoking","Cannabis_No, FlareStatus_Remission",0.37264150943396224,0.9294117647058823,1.4667639760618887
+"HBI_Remission, Surgery_No","Cannabis_No, FlareStatus_Remission",0.42924528301886794,0.9285714285714286,1.4654377880184333
+"Cannabis_No, HBI_Remission, Hb_Limite",FlareStatus_Remission,0.300314465408805,0.9455445544554456,1.4631784346317844
+"Hb_Normal, WBC_Normal",Sex_Male,0.2940251572327044,0.7632653061224489,1.46215883943939
+"Cannabis_No, HBI_Remission, Surgery_No",FlareStatus_Remission,0.42924528301886794,0.9446366782006921,1.4617735458288081
+"FlareStatus_Remission, Hb_Normal","Cannabis_No, HBI_Remission",0.3050314465408805,0.9651741293532339,1.4615493958777543
+"HBI_Remission, Surgery_No, WBC_Normal",FlareStatus_Remission,0.32075471698113206,0.9444444444444444,1.4614760746147606
+"CRP_Eleve, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3522012578616352,0.8959999999999999,1.4611692307692308
+"Cannabis_No, HBI_Remission, Smoking_No smoking",FlareStatus_Remission,0.37264150943396224,0.9442231075697209,1.4611335679181083
+"Cannabis_No, Hb_Normal",Sex_Male,0.3584905660377358,0.7625418060200668,1.4607728573155496
+"BMI_Normal, HBI_Remission, Surgery_No",FlareStatus_Remission,0.2610062893081761,0.9431818181818182,1.4595222295952224
+"FlareStatus_Remission, Sex_Male","Cannabis_No, HBI_Remission",0.3270440251572327,0.962962962962963,1.4582010582010583
+"HBI_Remission, Surgery_No",FlareStatus_Remission,0.43553459119496857,0.9421768707482994,1.4579671284572224
+"Cannabis_No, HBI_Remission, Sex_Female",FlareStatus_Remission,0.30660377358490565,0.9420289855072463,1.4577382841426
+"Duration_Moyenne, HBI_Remission, Surgery_No",FlareStatus_Remission,0.25471698113207547,0.9418604651162791,1.4574775080631472
+"Cannabis_No, HBI_Remission, Stool_Yes",FlareStatus_Remission,0.4308176100628931,0.9415807560137457,1.4570446735395188
+"BMI_Normal, HBI_Remission","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3553459119496855,0.893280632411067,1.4567345697780478
+"HBI_Remission, Hb_Limite",FlareStatus_Remission,0.3018867924528302,0.9411764705882353,1.4564190639759553
+"HBI_Remission, Stool_Yes, WBC_Normal",FlareStatus_Remission,0.3443396226415094,0.9399141630901288,1.4544657122270606
+"BMI_Normal, HBI_Remission, Stool_Yes",FlareStatus_Remission,0.26257861635220126,0.9382022471910112,1.4518166160911998
+"HBI_Remission, Stool_Yes","Cannabis_No, FlareStatus_Remission",0.4308176100628931,0.9194630872483222,1.4510633337219179
+"Duration_Moyenne, HBI_Remission, Stool_Yes",FlareStatus_Remission,0.25943396226415094,0.9375,1.4507299270072993
+"HBI_Remission, Sex_Female",FlareStatus_Remission,0.30660377358490565,0.9375,1.4507299270072993
+"HBI_Remission, Smoking_No smoking",FlareStatus_Remission,0.3757861635220126,0.9372549019607843,1.4503506512093889
+"HBI_Remission, Stool_Yes",FlareStatus_Remission,0.4386792452830189,0.9362416107382551,1.448782638514672
+"HBI_Remission, Hb_Limite","Diagnosis_Crohn's disease, FlareStatus_Remission",0.28459119496855345,0.8872549019607844,1.4469079939668177
+"HBI_Remission, Smoking_No smoking","Diagnosis_Crohn's disease, FlareStatus_Remission",0.3553459119496855,0.8862745098039214,1.4453092006033181
+"Cannabis_No, Hb_Normal, WBC_Normal",Sex_Male,0.279874213836478,0.7542372881355932,1.4448642025730039
+"HBI_Remission, Smoking_No smoking, WBC_Normal",FlareStatus_Remission,0.26572327044025157,0.9337016574585636,1.4448521998628867
+"CRP_Eleve, Cannabis_No, HBI_Remission",FlareStatus_Remission,0.35691823899371067,0.9303278688524589,1.4396314466913962
+"HBI_Remission, Surgery_No","Diagnosis_Crohn's disease, FlareStatus_Remission",0.40723270440251574,0.8809523809523809,1.4366300366300366
+"CRP_Eleve, HBI_Remission, WBC_Normal",FlareStatus_Remission,0.279874213836478,0.9270833333333334,1.434610705596107
+"CRP_Eleve, HBI_Remission","Cannabis_No, FlareStatus_Remission",0.35691823899371067,0.9079999999999999,1.43297270471464
+"CRP_Eleve, HBI_Remission",FlareStatus_Remission,0.3632075471698113,0.9239999999999999,1.429839416058394
+"HBI_Remission, Smoking_No smoking, Surgery_No",FlareStatus_Remission,0.25471698113207547,0.9204545454545455,1.4243530192435303
+"HBI_Remission, Stool_Yes, Surgery_No",FlareStatus_Remission,0.2940251572327044,0.9166666666666666,1.4184914841849148
+"HBI_Remission, Stool_Yes","Diagnosis_Crohn's disease, FlareStatus_Remission",0.4056603773584906,0.865771812080537,1.4118740320082603
+"HBI_Remission, Smoking_No smoking, Stool_Yes",FlareStatus_Remission,0.25943396226415094,0.9116022099447514,1.4106545146590312
+"HBI_Remission, Sex_Female","Diagnosis_Crohn's disease, FlareStatus_Remission",0.28144654088050314,0.8605769230769231,1.4034023668639055
+"CRP_Eleve, HBI_Remission, Stool_Yes",FlareStatus_Remission,0.25,0.8932584269662922,1.3822685147215616

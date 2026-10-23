@@ -1,0 +1,4 @@
+Méthode,Nb_clusters,Silhouette,Bruit_détecté
+K-Means,3,0.1027,0
+DBSCAN,1,,5
+Ward (Hiérarchique),3,0.0985,0

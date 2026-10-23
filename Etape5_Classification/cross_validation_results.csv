@@ -1,0 +1,5 @@
+Modèle,AUC_moyen,AUC_std,AUC_min,AUC_max
+Decision Tree,0.9908,0.0046,0.9831,0.9962
+Random Forest,0.9998,0.0002,0.9995,1.0
+KNN (k=7),0.8625,0.0184,0.8396,0.879
+Logistic Reg.,0.9985,0.0008,0.9972,0.9995

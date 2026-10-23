@@ -1,0 +1,4 @@
+Cluster,N_patients,N_itemsets,N_rules,Lift_max,Lift_moyen
+0,596,720,89,3.041,2.087
+1,636,717,201,1.631,1.492
+2,338,2444,3158,1.845,1.358
